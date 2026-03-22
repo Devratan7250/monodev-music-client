@@ -34,7 +34,7 @@ https://monochrome.tf
 
 ## 💬 Community
 
-https://t.me/monodev_music
+https://t.me/monodev_music_community
 
 ---
 
