@@ -6,7 +6,30 @@ A modern hybrid Android music client combining web streaming with native system-
 > This project does not own or host any content.  
 > All credit goes to the original developers.
 
----
+---## Screenshots
+
+### Home
+<img width="1080" height="1944" alt="Home" src="https://github.com/user-attachments/assets/22809129-7e71-4e97-82ce-8367c354bfff" />
+
+
+### Player
+<img width="1080" height="1925" alt="Player" src="https://github.com/user-attachments/assets/dda2ab46-c3cd-425e-a98d-f7e70cfe43aa" />
+
+
+### Lyrics
+<img width="1080" height="1942" alt="Lyrics" src="https://github.com/user-attachments/assets/01e770f2-e7b3-4d30-ae67-63115683f17b" />
+
+
+### Recently played
+<img width="1080" height="1943" alt="Recently played" src="https://github.com/user-attachments/assets/5e67af75-7e05-47ef-9e1e-8cbaf4280b85" />
+
+
+### Audio Settings
+<img width="1080" height="1935" alt="Settings" src="https://github.com/user-attachments/assets/b4e19f2e-c3f0-4bff-8e21-2fd2fe896404" />
+
+
+### Playlist 
+<img width="1080" height="1947" alt="Playlists" src="https://github.com/user-attachments/assets/caf41095-4b20-464b-93b9-ad6b2b592f41" />
 
 ## ✨ Features
 
@@ -51,19 +74,6 @@ https://t.me/monodev_music_community
 - MonoDev (Android Client)
 ---
 
-## Screenshots
-
-### Home
-![Home](home.jpg)
-
-### Player
-![Player](player.jpg)
-
-### Audio Settings
-![Audio Settings](audio-settings.jpg)
-
-### Playlist Import
-![Playlist Import](playlist-import.jpg)
 
 ---
 
