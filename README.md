@@ -1,10 +1,12 @@
 # 🎧 MonoDev Music — Hybrid Android Music Client
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/58a1ac00-b880-4b8a-a0df-f2abb4bf3f79" width="120" style="border-radius:20px"/>
 </p>
 
-<h1 align="center">MonoDev Music</h1>
-##  🚀 700+ Downloads in 24 Hours!
+<h2 align="center">MonoDev Music</h2>
+
+## 🚀 700+ Downloads in 24 Hours!
 
 We just hit **700+ downloads in a single day** 🤯  
 
@@ -16,16 +18,16 @@ Expect better performance, new features, and continuous improvements 🚀
 Let’s build something amazing together 🎧
 
 ---
+
 <p align="center">
   <img src="https://img.shields.io/github/stars/Devratan7250/monodev-music-client?style=for-the-badge"/>
 </p>
-
 
 <p align="center">
   <a href="https://github.com/Devratan7250/monodev-music-client/releases/latest">
     <img src="https://img.shields.io/badge/Download-APK-1f883d?style=for-the-badge&logo=android&logoColor=white"/>
   </a>
-   <a href="https://t.me/monodev_music_community">
+  <a href="https://t.me/monodev_music_community">
     <img src="https://img.shields.io/badge/Join-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
