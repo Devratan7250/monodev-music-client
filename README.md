@@ -9,8 +9,7 @@ A modern hybrid Android music client combining web streaming with native system-
 ---## Screenshots
 
 ### Home
-<p align="center">
-<img width="1080" height="1944" alt="Home" src="https://github.com/user-attachments/assets/22809129-7e71-4e97-82ce-8367c354bfff"  />
+<img  src="https://github.com/user-attachments/assets/22809129-7e71-4e97-82ce-8367c354bfff"  width="220"/>
 
 
 ### Player
@@ -19,19 +18,19 @@ A modern hybrid Android music client combining web streaming with native system-
 
 
 ### Lyrics
-<img width="1080" height="1942" alt="Lyrics" src="https://github.com/user-attachments/assets/01e770f2-e7b3-4d30-ae67-63115683f17b" />
+<img src="https://github.com/user-attachments/assets/01e770f2-e7b3-4d30-ae67-63115683f17b"  width="220"/>
 
 
 ### Recently played
-<img width="1080" height="1943" alt="Recently played" src="https://github.com/user-attachments/assets/5e67af75-7e05-47ef-9e1e-8cbaf4280b85" />
+<img  src="https://github.com/user-attachments/assets/5e67af75-7e05-47ef-9e1e-8cbaf4280b85" width="220"/>
 
 
 ### Audio Settings
-<img width="1080" height="1935" alt="Settings" src="https://github.com/user-attachments/assets/b4e19f2e-c3f0-4bff-8e21-2fd2fe896404" />
+<img  src="https://github.com/user-attachments/assets/b4e19f2e-c3f0-4bff-8e21-2fd2fe896404" /> width="220"/>
 
 
 ### Playlist 
-<img width="1080" height="1947" alt="Playlists" src="https://github.com/user-attachments/assets/caf41095-4b20-464b-93b9-ad6b2b592f41" />
+<img  src="https://github.com/user-attachments/assets/caf41095-4b20-464b-93b9-ad6b2b592f41" / width="220"/>
 
 ## ✨ Features
 
