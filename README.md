@@ -41,7 +41,7 @@ Let’s build something amazing together 🎧
 
 ---
 
-🚧 This project is in active development (early build)
+## 🚧 This project is in active development (early build)
 Some features may be incomplete or unstable.
 
 ---
