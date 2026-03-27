@@ -148,10 +148,10 @@ https://t.me/monodev_music_community
 
 The APK has been scanned using **VirusTotal**.
 
-• **0 detections across 60+ antivirus engines**
+• **0 detections across 60+ engines**
 
 Security scan report:  
-https://www.virustotal.com/gui/file/f9b347b5d167ad0fce85528adf66424a6bd4cacf07e30dc399b37fd60db439e8/summary
+https://www.virustotal.com/gui/file/9c5d5802835827dddca46c1befb9a55e26972b6ae7c56657c6633573d1f15120/detection
 
 The app is also scanned by **Google Play Protect before installation**.
 
