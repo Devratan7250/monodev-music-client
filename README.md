@@ -110,39 +110,6 @@ Some features may be incomplete or unstable.
 
 ---
 
-## 📦 Download
-
-👉 https://github.com/Devratan7250/monochrome-music-android/releases
-
----
-
-## 🌐 Original Project
-
-https://monochrome.tf
-
----
-
-## 💬 Community
-
-https://t.me/monodev_music_community
-
----
-
-## ⚠️ Known Issues
-
-- Google login may not work inside the app
-- Minor UI jitter in lyrics/queue (being improved)
-
----
-
-## ❤️ Credits
-
-- Original Monochrome Developers  
-- MonoDev (Android Client)
----
-
-
----
 
 ## Security
 
@@ -158,20 +125,27 @@ The app is also scanned by **Google Play Protect before installation**.
 Sometimes Play Protect may show a warning because the app is not from the Play Store.  
 This is normal behaviour for side-loaded apps.
 
+
 ---
 
-## Original Project
+## ❤️ Credits
 
-Monochrome Music (Open Source):
-
+- Original Monochrome Developers 
 https://github.com/monochrome-music/monochrome
 
-Website:
-
-https://monochrome.tf
+- MonoDev (Android Client)
 
 ---
+## Star History
 
+<a href="https://www.star-history.com/?repos=Devratan7250%2Fmonodev-music-client&type=date&logscale=&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Devratan7250/monodev-music-client&type=date&theme=dark&logscale&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Devratan7250/monodev-music-client&type=date&logscale&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Devratan7250/monodev-music-client&type=date&logscale&legend=bottom-right" />
+ </picture>
+</a>
+---
 ## Disclaimer
 
 I am **not the developer of Monochrome Music**.
