@@ -38,6 +38,9 @@ Let’s build something amazing together 🎧
   </a>
 </p>
 
+### ❤️ Support the Project
+
+
 <p align="center">
   <img src="https://img.shields.io/github/downloads/Devratan7250/monodev-music-client/total?style=for-the-badge"/>
 </p>
