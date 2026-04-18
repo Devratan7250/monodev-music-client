@@ -41,7 +41,7 @@ Let’s build something amazing together 🎧
 <p align="center">
   <img src="https://img.shields.io/github/downloads/Devratan7250/monodev-music-client/total?style=for-the-badge"/>
 </p>
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U51XZIYN)
 
 > ⚠️ This is NOT an official app.  
 > This project does not own or host any content.  
