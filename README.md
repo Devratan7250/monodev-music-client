@@ -21,7 +21,7 @@ Let’s build something amazing together 🎧
 </p>
 
 <p align="center">
-  <a href="https://github.com/Devratan7250/monodev-music-client/releases/latest">
+  <a href="https://github.com/MonoDevHQ/monodev-music-client/releases/tag/3.1.0">
     <img src="https://img.shields.io/badge/DOWNLOAD-STABLE%20APK-1f883d?style=for-the-badge&logo=android&logoColor=white"/>
   </a>
   <a href="https://github.com/Devratan7250/monodev-music-client/releases/tag/4.0">
